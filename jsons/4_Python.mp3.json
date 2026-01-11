@@ -1,0 +1,229 @@
+{
+    "chunks": [
+        {
+            "number": "4",
+            "title": "Python",
+            "start": 0.0,
+            "end": 5.16,
+            "text": " Python, a high-level interpreted programming language famous for its zen-like code."
+        },
+        {
+            "number": "4",
+            "title": "Python",
+            "start": 5.3,
+            "end": 11.3,
+            "text": " It's arguably the most popular language in the world because it's easy to learn, yet practical for serious projects."
+        },
+        {
+            "number": "4",
+            "title": "Python",
+            "start": 11.48,
+            "end": 15.56,
+            "text": " In fact, you're watching this YouTube video in a Python web application right now."
+        },
+        {
+            "number": "4",
+            "title": "Python",
+            "start": 15.620000000000001,
+            "end": 21.66,
+            "text": " It was created by Guido Van Rossum and released in 1991, who named it after Monty Python's Flying Circus,"
+        },
+        {
+            "number": "4",
+            "title": "Python",
+            "start": 21.82,
+            "end": 26.12,
+            "text": " which is why you'll sometimes find spam and eggs instead of foo and bar in code samples."
+        },
+        {
+            "number": "4",
+            "title": "Python",
+            "start": 26.12,
+            "end": 30.64,
+            "text": " It's commonly used to build server-side applications, like web apps with the Django framework,"
+        },
+        {
+            "number": "4",
+            "title": "Python",
+            "start": 30.78,
+            "end": 34.36,
+            "text": " and is the language of choice for big data analysis and machine learning."
+        },
+        {
+            "number": "4",
+            "title": "Python",
+            "start": 34.54,
+            "end": 41.1,
+            "text": " Many students choose Python to start learning to code because of its emphasis on readability as outlined by the zen of Python."
+        },
+        {
+            "number": "4",
+            "title": "Python",
+            "start": 41.28,
+            "end": 44.8,
+            "text": " Beautiful is better than ugly, while explicit is better than implicit."
+        },
+        {
+            "number": "4",
+            "title": "Python",
+            "start": 45.02,
+            "end": 49.68,
+            "text": " Python is very simple, but avoids the temptation to sprinkle in magic that causes ambiguity."
+        },
+        {
+            "number": "4",
+            "title": "Python",
+            "start": 49.68,
+            "end": 56.24,
+            "text": " Its code is often organized into notebooks, where individual cells can be executed, then documented in the same place."
+        },
+        {
+            "number": "4",
+            "title": "Python",
+            "start": 56.44,
+            "end": 61.38,
+            "text": " We're currently at version 3 of the language, and you can get started by creating a file that ends in .py,"
+        },
+        {
+            "number": "4",
+            "title": "Python",
+            "start": 61.64,
+            "end": 64.56,
+            "text": " or .ipynb to create an interactive notebook."
+        },
+        {
+            "number": "4",
+            "title": "Python",
+            "start": 64.76,
+            "end": 67.64,
+            "text": " Create a variable by setting a name equal to a value."
+        },
+        {
+            "number": "4",
+            "title": "Python",
+            "start": 67.82,
+            "end": 73.7,
+            "text": " It's strongly typed, which means values won't change in unexpected ways, but dynamic, so type annotations are not required."
+        },
+        {
+            "number": "4",
+            "title": "Python",
+            "start": 73.7,
+            "end": 78.14,
+            "text": " The syntax is highly efficient, allowing you to declare multiple variables on a single line,"
+        },
+        {
+            "number": "4",
+            "title": "Python",
+            "start": 78.26,
+            "end": 81.94,
+            "text": " and define tuples, lists, and dictionaries with a literal syntax."
+        },
+        {
+            "number": "4",
+            "title": "Python",
+            "start": 82.14,
+            "end": 87.74000000000001,
+            "text": " Semicolons are not required, and if you use them, an experienced Pythonista will say that your code is not Pythonic."
+        },
+        {
+            "number": "4",
+            "title": "Python",
+            "start": 87.92,
+            "end": 93.48,
+            "text": " Instead of semicolons, Python uses indentation to terminate or determine the scope of a line of code."
+        },
+        {
+            "number": "4",
+            "title": "Python",
+            "start": 93.66,
+            "end": 99.44,
+            "text": " Define a function with the def keyword, then indent the next line, usually by four spaces, to define the function body."
+        },
+        {
+            "number": "4",
+            "title": "Python",
+            "start": 99.62,
+            "end": 102.96000000000001,
+            "text": " We might then add a for loop to it, and indent that by another four spaces."
+        },
+        {
+            "number": "4",
+            "title": "Python",
+            "start": 102.96,
+            "end": 107.61999999999999,
+            "text": " This eliminates the need for curly braces and semicolons found in many other languages."
+        },
+        {
+            "number": "4",
+            "title": "Python",
+            "start": 107.78,
+            "end": 109.55999999999999,
+            "text": " Python is a multi-paradigm language."
+        },
+        {
+            "number": "4",
+            "title": "Python",
+            "start": 109.74,
+            "end": 113.75999999999999,
+            "text": " We can apply functional programming patterns with things like anonymous functions using Lambda."
+        },
+        {
+            "number": "4",
+            "title": "Python",
+            "start": 113.97999999999999,
+            "end": 119.02,
+            "text": " It also uses objects as an abstraction for data, allowing you to implement object-oriented patterns,"
+        },
+        {
+            "number": "4",
+            "title": "Python",
+            "start": 119.17999999999999,
+            "end": 120.86,
+            "text": " with things like classes and inheritance."
+        },
+        {
+            "number": "4",
+            "title": "Python",
+            "start": 121.24,
+            "end": 126.52,
+            "text": " It also has a huge ecosystem of third-party libraries, such as deep learning frameworks like TensorFlow,"
+        },
+        {
+            "number": "4",
+            "title": "Python",
+            "start": 126.89999999999999,
+            "end": 131.0,
+            "text": " and wrappers for many high-performance low-level packages like Open Computer Vision,"
+        },
+        {
+            "number": "4",
+            "title": "Python",
+            "start": 131.0,
+            "end": 134.08,
+            "text": " which are most often installed with the pip package manager."
+        },
+        {
+            "number": "4",
+            "title": "Python",
+            "start": 134.32,
+            "end": 137.22,
+            "text": " This has been the Python programming language in 100 seconds."
+        },
+        {
+            "number": "4",
+            "title": "Python",
+            "start": 137.32,
+            "end": 139.68,
+            "text": " Hit the like button if you want to see more short videos like this."
+        },
+        {
+            "number": "4",
+            "title": "Python",
+            "start": 139.8,
+            "end": 142.38,
+            "text": " Thanks for watching, and I will see you in the next one."
+        }
+    ],
+    "text": " Python, a high-level interpreted programming language famous for its zen-like code. It's arguably the most popular language in the world because it's easy to learn, yet practical for serious projects. In fact, you're watching this YouTube video in a Python web application right now. It was created by Guido Van Rossum and released in 1991, who named it after Monty Python's Flying Circus, which is why you'll sometimes find spam and eggs instead of foo and bar in code samples. It's commonly used to build server-side applications, like web apps with the Django framework, and is the language of choice for big data analysis and machine learning. Many students choose Python to start learning to code because of its emphasis on readability as outlined by the zen of Python. Beautiful is better than ugly, while explicit is better than implicit. Python is very simple, but avoids the temptation to sprinkle in magic that causes ambiguity. Its code is often organized into notebooks, where individual cells can be executed, then documented in the same place. We're currently at version 3 of the language, and you can get started by creating a file that ends in .py, or .ipynb to create an interactive notebook. Create a variable by setting a name equal to a value. It's strongly typed, which means values won't change in unexpected ways, but dynamic, so type annotations are not required. The syntax is highly efficient, allowing you to declare multiple variables on a single line, and define tuples, lists, and dictionaries with a literal syntax. Semicolons are not required, and if you use them, an experienced Pythonista will say that your code is not Pythonic. Instead of semicolons, Python uses indentation to terminate or determine the scope of a line of code. Define a function with the def keyword, then indent the next line, usually by four spaces, to define the function body. We might then add a for loop to it, and indent that by another four spaces. This eliminates the need for curly braces and semicolons found in many other languages. Python is a multi-paradigm language. We can apply functional programming patterns with things like anonymous functions using Lambda. It also uses objects as an abstraction for data, allowing you to implement object-oriented patterns, with things like classes and inheritance. It also has a huge ecosystem of third-party libraries, such as deep learning frameworks like TensorFlow, and wrappers for many high-performance low-level packages like Open Computer Vision, which are most often installed with the pip package manager. This has been the Python programming language in 100 seconds. Hit the like button if you want to see more short videos like this. Thanks for watching, and I will see you in the next one."
+}

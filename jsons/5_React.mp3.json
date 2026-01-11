@@ -1,0 +1,348 @@
+{
+    "chunks": [
+        {
+            "number": "5",
+            "title": "React",
+            "start": 0.0,
+            "end": 3.8000000000000003,
+            "text": " React, a JavaScript library for building user interfaces."
+        },
+        {
+            "number": "5",
+            "title": "React",
+            "start": 3.8000000000000003,
+            "end": 6.2,
+            "text": " Developed at Facebook and released in 2013,"
+        },
+        {
+            "number": "5",
+            "title": "React",
+            "start": 6.2,
+            "end": 10.1,
+            "text": " it's safe to say React has been the most influential UI library of recent memory."
+        },
+        {
+            "number": "5",
+            "title": "React",
+            "start": 10.1,
+            "end": 14.6,
+            "text": " We use it to build components that represent logical, reusable parts of the UI."
+        },
+        {
+            "number": "5",
+            "title": "React",
+            "start": 14.6,
+            "end": 17.8,
+            "text": " The beauty of React is that the simplicity of building a component"
+        },
+        {
+            "number": "5",
+            "title": "React",
+            "start": 17.8,
+            "end": 20.1,
+            "text": " has been brought down to its theoretical minimum."
+        },
+        {
+            "number": "5",
+            "title": "React",
+            "start": 20.1,
+            "end": 21.900000000000002,
+            "text": " It's just a JavaScript function."
+        },
+        {
+            "number": "5",
+            "title": "React",
+            "start": 21.900000000000002,
+            "end": 24.2,
+            "text": " It's so easy, a caveman could do it."
+        },
+        {
+            "number": "5",
+            "title": "React",
+            "start": 24.2,
+            "end": 27.400000000000002,
+            "text": " The return value from this function is your HTML, or UI,"
+        },
+        {
+            "number": "5",
+            "title": "React",
+            "start": 27.4,
+            "end": 30.2,
+            "text": " which is written in a special syntax called JSX,"
+        },
+        {
+            "number": "5",
+            "title": "React",
+            "start": 30.2,
+            "end": 33.5,
+            "text": " allowing you to easily combine JavaScript with HTML markup."
+        },
+        {
+            "number": "5",
+            "title": "React",
+            "start": 33.5,
+            "end": 35.4,
+            "text": " If you want to pass data into a component,"
+        },
+        {
+            "number": "5",
+            "title": "React",
+            "start": 35.4,
+            "end": 37.2,
+            "text": " you simply pass it a props argument,"
+        },
+        {
+            "number": "5",
+            "title": "React",
+            "start": 37.2,
+            "end": 39.4,
+            "text": " which you can then reference inside the function body,"
+        },
+        {
+            "number": "5",
+            "title": "React",
+            "start": 39.4,
+            "end": 41.1,
+            "text": " or in the UI using braces."
+        },
+        {
+            "number": "5",
+            "title": "React",
+            "start": 41.1,
+            "end": 45.0,
+            "text": " If the value changes, React will react to update the UI."
+        },
+        {
+            "number": "5",
+            "title": "React",
+            "start": 45.0,
+            "end": 47.5,
+            "text": " If we want to give our component its own internal state,"
+        },
+        {
+            "number": "5",
+            "title": "React",
+            "start": 47.5,
+            "end": 48.8,
+            "text": " we can use the state hook."
+        },
+        {
+            "number": "5",
+            "title": "React",
+            "start": 48.8,
+            "end": 51.5,
+            "text": " The hook is just a function that returns a value,"
+        },
+        {
+            "number": "5",
+            "title": "React",
+            "start": 51.5,
+            "end": 53.7,
+            "text": " as well as a function to change the value."
+        },
+        {
+            "number": "5",
+            "title": "React",
+            "start": 53.7,
+            "end": 56.0,
+            "text": " In this case, count is our reactive state,"
+        },
+        {
+            "number": "5",
+            "title": "React",
+            "start": 56.0,
+            "end": 58.0,
+            "text": " and set count will change the state."
+        },
+        {
+            "number": "5",
+            "title": "React",
+            "start": 58.0,
+            "end": 59.1,
+            "text": " When used in the template,"
+        },
+        {
+            "number": "5",
+            "title": "React",
+            "start": 59.1,
+            "end": 61.2,
+            "text": " the count will always show the most recent value."
+        },
+        {
+            "number": "5",
+            "title": "React",
+            "start": 61.2,
+            "end": 63.5,
+            "text": " Then we combine set count to a button click event,"
+        },
+        {
+            "number": "5",
+            "title": "React",
+            "start": 63.5,
+            "end": 65.3,
+            "text": " so the user can change the state."
+        },
+        {
+            "number": "5",
+            "title": "React",
+            "start": 65.3,
+            "end": 68.9,
+            "text": " React provides a variety of other built-in hooks to handle common use cases,"
+        },
+        {
+            "number": "5",
+            "title": "React",
+            "start": 68.9,
+            "end": 71.9,
+            "text": " but the main reason you might want to use React is not the library itself,"
+        },
+        {
+            "number": "5",
+            "title": "React",
+            "start": 71.9,
+            "end": 74.1,
+            "text": " but the massive ecosystem that surrounds it."
+        },
+        {
+            "number": "5",
+            "title": "React",
+            "start": 74.1,
+            "end": 78.5,
+            "text": " React itself doesn't care about routing, state management, animation, or anything like that."
+        },
+        {
+            "number": "5",
+            "title": "React",
+            "start": 78.5,
+            "end": 82.3,
+            "text": " Instead, it lets those concerns evolve naturally within the open source community."
+        },
+        {
+            "number": "5",
+            "title": "React",
+            "start": 82.3,
+            "end": 86.5,
+            "text": " No matter what you're trying to do, there's very likely a good supporting library to help you get it done."
+        },
+        {
+            "number": "5",
+            "title": "React",
+            "start": 86.5,
+            "end": 87.5,
+            "text": " Need a static site?"
+        },
+        {
+            "number": "5",
+            "title": "React",
+            "start": 87.5,
+            "end": 88.5,
+            "text": " You have Gatsby."
+        },
+        {
+            "number": "5",
+            "title": "React",
+            "start": 88.5,
+            "end": 89.5,
+            "text": " Need server-side rendering?"
+        },
+        {
+            "number": "5",
+            "title": "React",
+            "start": 89.5,
+            "end": 90.3,
+            "text": " You have Next."
+        },
+        {
+            "number": "5",
+            "title": "React",
+            "start": 90.3,
+            "end": 91.7,
+            "text": " For animation, you have Spring."
+        },
+        {
+            "number": "5",
+            "title": "React",
+            "start": 91.7,
+            "end": 93.0,
+            "text": " For forms, you have Formic."
+        },
+        {
+            "number": "5",
+            "title": "React",
+            "start": 93.0,
+            "end": 93.8,
+            "text": " State management?"
+        },
+        {
+            "number": "5",
+            "title": "React",
+            "start": 93.8,
+            "end": 96.8,
+            "text": " You've got Redux, MobX, Flux, Recoil, XState, and more."
+        },
+        {
+            "number": "5",
+            "title": "React",
+            "start": 96.8,
+            "end": 100.1,
+            "text": " You have an endless supply of choices to get things done the way you like it."
+        },
+        {
+            "number": "5",
+            "title": "React",
+            "start": 100.1,
+            "end": 102.1,
+            "text": " As an added bonus, once you have React down,"
+        },
+        {
+            "number": "5",
+            "title": "React",
+            "start": 102.1,
+            "end": 105.1,
+            "text": " you can easily jump into React Native and start building mobile apps."
+        },
+        {
+            "number": "5",
+            "title": "React",
+            "start": 105.1,
+            "end": 110.8,
+            "text": " And it's no surprise that knowing this little UI library is one of the most in-demand skills for front-end developers today."
+        },
+        {
+            "number": "5",
+            "title": "React",
+            "start": 110.8,
+            "end": 112.8,
+            "text": " This has been React in 100 seconds."
+        },
+        {
+            "number": "5",
+            "title": "React",
+            "start": 112.8,
+            "end": 115.89999999999999,
+            "text": " If you want to see more short videos like this, make sure to like and subscribe,"
+        },
+        {
+            "number": "5",
+            "title": "React",
+            "start": 115.89999999999999,
+            "end": 118.69999999999999,
+            "text": " and check out more advanced React content on Fireship.io."
+        },
+        {
+            "number": "5",
+            "title": "React",
+            "start": 118.69999999999999,
+            "end": 123.6,
+            "text": " And if you're curious how I make these videos, make sure to check out my new personal channel and video on that topic."
+        },
+        {
+            "number": "5",
+            "title": "React",
+            "start": 123.6,
+            "end": 126.1,
+            "text": " Thanks for watching, and I will see you in the next one."
+        }
+    ],
+    "text": " React, a JavaScript library for building user interfaces. Developed at Facebook and released in 2013, it's safe to say React has been the most influential UI library of recent memory. We use it to build components that represent logical, reusable parts of the UI. The beauty of React is that the simplicity of building a component has been brought down to its theoretical minimum. It's just a JavaScript function. It's so easy, a caveman could do it. The return value from this function is your HTML, or UI, which is written in a special syntax called JSX, allowing you to easily combine JavaScript with HTML markup. If you want to pass data into a component, you simply pass it a props argument, which you can then reference inside the function body, or in the UI using braces. If the value changes, React will react to update the UI. If we want to give our component its own internal state, we can use the state hook. The hook is just a function that returns a value, as well as a function to change the value. In this case, count is our reactive state, and set count will change the state. When used in the template, the count will always show the most recent value. Then we combine set count to a button click event, so the user can change the state. React provides a variety of other built-in hooks to handle common use cases, but the main reason you might want to use React is not the library itself, but the massive ecosystem that surrounds it. React itself doesn't care about routing, state management, animation, or anything like that. Instead, it lets those concerns evolve naturally within the open source community. No matter what you're trying to do, there's very likely a good supporting library to help you get it done. Need a static site? You have Gatsby. Need server-side rendering? You have Next. For animation, you have Spring. For forms, you have Formic. State management? You've got Redux, MobX, Flux, Recoil, XState, and more. You have an endless supply of choices to get things done the way you like it. As an added bonus, once you have React down, you can easily jump into React Native and start building mobile apps. And it's no surprise that knowing this little UI library is one of the most in-demand skills for front-end developers today. This has been React in 100 seconds. If you want to see more short videos like this, make sure to like and subscribe, and check out more advanced React content on Fireship.io. And if you're curious how I make these videos, make sure to check out my new personal channel and video on that topic. Thanks for watching, and I will see you in the next one."
+}

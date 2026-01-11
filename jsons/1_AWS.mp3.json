@@ -1,0 +1,355 @@
+{
+    "chunks": [
+        {
+            "number": "1",
+            "title": "AWS",
+            "start": 0.52,
+            "end": 4.84,
+            "text": " AWS, the world's largest collection of awful web services."
+        },
+        {
+            "number": "1",
+            "title": "AWS",
+            "start": 4.84,
+            "end": 9.88,
+            "text": " It was created by Jeff Bezos in 2006 at his secret volcano base as a diabolical plan to"
+        },
+        {
+            "number": "1",
+            "title": "AWS",
+            "start": 9.88,
+            "end": 12.8,
+            "text": " get startups addicted to cheap computing resources."
+        },
+        {
+            "number": "1",
+            "title": "AWS",
+            "start": 12.8,
+            "end": 15.72,
+            "text": " Like any good crack dealer, they start you off with a free taste."
+        },
+        {
+            "number": "1",
+            "title": "AWS",
+            "start": 15.72,
+            "end": 18.64,
+            "text": " Then pricing scales up exponentially as you become more dependent."
+        },
+        {
+            "number": "1",
+            "title": "AWS",
+            "start": 18.64,
+            "end": 21.240000000000002,
+            "text": " By the time you realize you're locked in, it's too late."
+        },
+        {
+            "number": "1",
+            "title": "AWS",
+            "start": 21.240000000000002,
+            "end": 23.400000000000002,
+            "text": " Your business will die from withdrawals if you try to quit."
+        },
+        {
+            "number": "1",
+            "title": "AWS",
+            "start": 23.400000000000002,
+            "end": 28.44,
+            "text": " Currently, it has exactly 69,420 different services to choose from, each one with its"
+        },
+        {
+            "number": "1",
+            "title": "AWS",
+            "start": 28.44,
+            "end": 30.8,
+            "text": " own stupid name and nonsensical icon."
+        },
+        {
+            "number": "1",
+            "title": "AWS",
+            "start": 30.8,
+            "end": 34.68,
+            "text": " Some are acronyms, some have numbers, some are planets, and some are low-key insults at"
+        },
+        {
+            "number": "1",
+            "title": "AWS",
+            "start": 34.68,
+            "end": 36.32,
+            "text": " their rivals, like Redshift."
+        },
+        {
+            "number": "1",
+            "title": "AWS",
+            "start": 36.32,
+            "end": 40.160000000000004,
+            "text": " It's so complex that you'll want to get certified with a PhD before even attempting to launch"
+        },
+        {
+            "number": "1",
+            "title": "AWS",
+            "start": 40.160000000000004,
+            "end": 41.160000000000004,
+            "text": " a Hello World."
+        },
+        {
+            "number": "1",
+            "title": "AWS",
+            "start": 41.160000000000004,
+            "end": 44.480000000000004,
+            "text": " And be careful, because many of the services are like beta products that haven't been"
+        },
+        {
+            "number": "1",
+            "title": "AWS",
+            "start": 44.480000000000004,
+            "end": 45.6,
+            "text": " updated in years."
+        },
+        {
+            "number": "1",
+            "title": "AWS",
+            "start": 45.6,
+            "end": 47.68000000000001,
+            "text": " But impressively, they all still run like clockwork."
+        },
+        {
+            "number": "1",
+            "title": "AWS",
+            "start": 47.68000000000001,
+            "end": 50.16,
+            "text": " It feels a lot like developing in a haunted amusement park."
+        },
+        {
+            "number": "1",
+            "title": "AWS",
+            "start": 50.16,
+            "end": 53.84,
+            "text": " And if they don't have what you're looking for, just call 1-800-AMAZON and they'll launch"
+        },
+        {
+            "number": "1",
+            "title": "AWS",
+            "start": 53.84,
+            "end": 57.16,
+            "text": " a brand new service for you the next day, because the customer is always right."
+        },
+        {
+            "number": "1",
+            "title": "AWS",
+            "start": 57.16,
+            "end": 60.72,
+            "text": " Or, if you're building an awesome open source tool, they will immediately launch a service"
+        },
+        {
+            "number": "1",
+            "title": "AWS",
+            "start": 60.72,
+            "end": 63.519999999999996,
+            "text": " for it so you can never ever make any money from your hard work."
+        },
+        {
+            "number": "1",
+            "title": "AWS",
+            "start": 63.519999999999996,
+            "end": 65.56,
+            "text": " To get started, go ahead and sign up for an account."
+        },
+        {
+            "number": "1",
+            "title": "AWS",
+            "start": 65.56,
+            "end": 68.72,
+            "text": " Then the first thing you'll notice is that your account was immediately hacked, and you"
+        },
+        {
+            "number": "1",
+            "title": "AWS",
+            "start": 68.72,
+            "end": 72.52,
+            "text": " now have 500 EC2 instances mining shitcoins all over the world."
+        },
+        {
+            "number": "1",
+            "title": "AWS",
+            "start": 72.52,
+            "end": 76.17999999999999,
+            "text": " Conveniently, there's no big red shutdown button, and what you'll have to do is go and"
+        },
+        {
+            "number": "1",
+            "title": "AWS",
+            "start": 76.17999999999999,
+            "end": 79.16,
+            "text": " click on each server individually to manually shut it off."
+        },
+        {
+            "number": "1",
+            "title": "AWS",
+            "start": 79.16,
+            "end": 82.78,
+            "text": " Meanwhile, if you open up the billing service, you'll notice the amount of money you owe has broken"
+        },
+        {
+            "number": "1",
+            "title": "AWS",
+            "start": 82.78,
+            "end": 85.03999999999999,
+            "text": " the CSS because the number is too large."
+        },
+        {
+            "number": "1",
+            "title": "AWS",
+            "start": 85.04,
+            "end": 86.72000000000001,
+            "text": " At this point, you have two options."
+        },
+        {
+            "number": "1",
+            "title": "AWS",
+            "start": 86.72000000000001,
+            "end": 89.98,
+            "text": " You can sign out of the application and pretend this was all just a bad dream."
+        },
+        {
+            "number": "1",
+            "title": "AWS",
+            "start": 89.98,
+            "end": 92.32000000000001,
+            "text": " Or you can contact support and beg for mercy."
+        },
+        {
+            "number": "1",
+            "title": "AWS",
+            "start": 92.32000000000001,
+            "end": 95.96000000000001,
+            "text": " They'll forward your ticket to Jeff's $500 million sailing yacht, where he decides your"
+        },
+        {
+            "number": "1",
+            "title": "AWS",
+            "start": 95.96000000000001,
+            "end": 97.34,
+            "text": " fate like Emperor Nero."
+        },
+        {
+            "number": "1",
+            "title": "AWS",
+            "start": 97.34,
+            "end": 100.56,
+            "text": " If you get a thumbs down, it means you're now homeless, but a thumbs up means we can"
+        },
+        {
+            "number": "1",
+            "title": "AWS",
+            "start": 100.56,
+            "end": 101.74000000000001,
+            "text": " explore the UI."
+        },
+        {
+            "number": "1",
+            "title": "AWS",
+            "start": 101.74000000000001,
+            "end": 106.16000000000001,
+            "text": " Each team at AWS gets to design their own UI, giving us a wonderful, inconsistent freak show"
+        },
+        {
+            "number": "1",
+            "title": "AWS",
+            "start": 106.16000000000001,
+            "end": 107.16000000000001,
+            "text": " of a website."
+        },
+        {
+            "number": "1",
+            "title": "AWS",
+            "start": 107.16000000000001,
+            "end": 110.14000000000001,
+            "text": " You've got some products using Bootstrap One, others that look like they were designed on"
+        },
+        {
+            "number": "1",
+            "title": "AWS",
+            "start": 110.14000000000001,
+            "end": 112.04,
+            "text": " Fiverr, and some that are absolutely beautiful."
+        },
+        {
+            "number": "1",
+            "title": "AWS",
+            "start": 112.04,
+            "end": 115.72000000000001,
+            "text": " Now, if you can't find what you're looking for, don't even try to use the search."
+        },
+        {
+            "number": "1",
+            "title": "AWS",
+            "start": 115.72000000000001,
+            "end": 117.98,
+            "text": " Instead, just go straight to Google or chat GPT."
+        },
+        {
+            "number": "1",
+            "title": "AWS",
+            "start": 117.98,
+            "end": 123.26,
+            "text": " In the words of God's chosen programmer, an idiot admires complexity, a genius admires simplicity."
+        },
+        {
+            "number": "1",
+            "title": "AWS",
+            "start": 123.26,
+            "end": 126.22,
+            "text": " None of us here are geniuses, and that's why we use AWS."
+        },
+        {
+            "number": "1",
+            "title": "AWS",
+            "start": 126.22,
+            "end": 129.98000000000002,
+            "text": " This has been me trashing a technology that has me by the balls in 100 seconds."
+        },
+        {
+            "number": "1",
+            "title": "AWS",
+            "start": 129.98000000000002,
+            "end": 130.98000000000002,
+            "text": " Big mistake."
+        },
+        {
+            "number": "1",
+            "title": "AWS",
+            "start": 130.98000000000002,
+            "end": 135.8,
+            "text": " In reality, though, AWS has revolutionized the way we think about IT infrastructure."
+        },
+        {
+            "number": "1",
+            "title": "AWS",
+            "start": 135.8,
+            "end": 139.56,
+            "text": " It's the most popular cloud platform for a reason, and without it, the barriers to entry"
+        },
+        {
+            "number": "1",
+            "title": "AWS",
+            "start": 139.56,
+            "end": 143.7,
+            "text": " for the average tech startup would be much higher, and for that, it deserves our respect."
+        },
+        {
+            "number": "1",
+            "title": "AWS",
+            "start": 143.7,
+            "end": 146.24,
+            "text": " Make sure to also check out my full breakdown of AWS."
+        },
+        {
+            "number": "1",
+            "title": "AWS",
+            "start": 146.24,
+            "end": 148.66,
+            "text": " Thanks for watching, and I will see you in the next one."
+        }
+    ],
+    "text": " AWS, the world's largest collection of awful web services. It was created by Jeff Bezos in 2006 at his secret volcano base as a diabolical plan to get startups addicted to cheap computing resources. Like any good crack dealer, they start you off with a free taste. Then pricing scales up exponentially as you become more dependent. By the time you realize you're locked in, it's too late. Your business will die from withdrawals if you try to quit. Currently, it has exactly 69,420 different services to choose from, each one with its own stupid name and nonsensical icon. Some are acronyms, some have numbers, some are planets, and some are low-key insults at their rivals, like Redshift. It's so complex that you'll want to get certified with a PhD before even attempting to launch a Hello World. And be careful, because many of the services are like beta products that haven't been updated in years. But impressively, they all still run like clockwork. It feels a lot like developing in a haunted amusement park. And if they don't have what you're looking for, just call 1-800-AMAZON and they'll launch a brand new service for you the next day, because the customer is always right. Or, if you're building an awesome open source tool, they will immediately launch a service for it so you can never ever make any money from your hard work. To get started, go ahead and sign up for an account. Then the first thing you'll notice is that your account was immediately hacked, and you now have 500 EC2 instances mining shitcoins all over the world. Conveniently, there's no big red shutdown button, and what you'll have to do is go and click on each server individually to manually shut it off. Meanwhile, if you open up the billing service, you'll notice the amount of money you owe has broken the CSS because the number is too large. At this point, you have two options. You can sign out of the application and pretend this was all just a bad dream. Or you can contact support and beg for mercy. They'll forward your ticket to Jeff's $500 million sailing yacht, where he decides your fate like Emperor Nero. If you get a thumbs down, it means you're now homeless, but a thumbs up means we can explore the UI. Each team at AWS gets to design their own UI, giving us a wonderful, inconsistent freak show of a website. You've got some products using Bootstrap One, others that look like they were designed on Fiverr, and some that are absolutely beautiful. Now, if you can't find what you're looking for, don't even try to use the search. Instead, just go straight to Google or chat GPT. In the words of God's chosen programmer, an idiot admires complexity, a genius admires simplicity. None of us here are geniuses, and that's why we use AWS. This has been me trashing a technology that has me by the balls in 100 seconds. Big mistake. In reality, though, AWS has revolutionized the way we think about IT infrastructure. It's the most popular cloud platform for a reason, and without it, the barriers to entry for the average tech startup would be much higher, and for that, it deserves our respect. Make sure to also check out my full breakdown of AWS. Thanks for watching, and I will see you in the next one."
+}

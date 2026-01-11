@@ -1,0 +1,26 @@
+{
+    "chunks": [
+        {
+            "number": "0",
+            "title": "sample",
+            "start": 0.0,
+            "end": 4.66,
+            "text": " Hello, this is a short sample speech for testing speech-to-text systems."
+        },
+        {
+            "number": "0",
+            "title": "sample",
+            "start": 5.2,
+            "end": 9.4,
+            "text": " The purpose of this audio is to help you verify transcription accuracy."
+        },
+        {
+            "number": "0",
+            "title": "sample",
+            "start": 9.96,
+            "end": 11.120000000000001,
+            "text": " Thank you for listening."
+        }
+    ],
+    "text": " Hello, this is a short sample speech for testing speech-to-text systems. The purpose of this audio is to help you verify transcription accuracy. Thank you for listening."
+}

@@ -1,0 +1,278 @@
+{
+    "chunks": [
+        {
+            "number": "6",
+            "title": "React2",
+            "start": 0.16,
+            "end": 7.5600000000000005,
+            "text": " React.js, a half-baked functional UI library created at Facebook that's used by millions of developers because it has a cool name and logo."
+        },
+        {
+            "number": "6",
+            "title": "React2",
+            "start": 7.72,
+            "end": 9.92,
+            "text": " It was invented by Mark Zuckerberg in 2013."
+        },
+        {
+            "number": "6",
+            "title": "React2",
+            "start": 10.22,
+            "end": 14.200000000000001,
+            "text": " And that was a big mistake. And it was my mistake. And I'm sorry."
+        },
+        {
+            "number": "6",
+            "title": "React2",
+            "start": 14.48,
+            "end": 16.56,
+            "text": " React is simple, it's just JavaScript, bro."
+        },
+        {
+            "number": "6",
+            "title": "React2",
+            "start": 16.66,
+            "end": 21.38,
+            "text": " And that's why it gives you dozens of weird ways to solve the same problems, like functional and class-based components,"
+        },
+        {
+            "number": "6",
+            "title": "React2",
+            "start": 21.56,
+            "end": 25.84,
+            "text": " hooks, forward ref, higher order components, mixins, render props, suspense, and so on."
+        },
+        {
+            "number": "6",
+            "title": "React2",
+            "start": 25.84,
+            "end": 31.04,
+            "text": " It's credited as the first declarative UI library, even though it took most of those ideas from AngularJS."
+        },
+        {
+            "number": "6",
+            "title": "React2",
+            "start": 31.12,
+            "end": 34.28,
+            "text": " Its killer feature, though, is the fact that you can write pure functional code."
+        },
+        {
+            "number": "6",
+            "title": "React2",
+            "start": 34.34,
+            "end": 39.3,
+            "text": " That is, until you want to do anything useful, in which case you'll need to write impure functions with state and effects."
+        },
+        {
+            "number": "6",
+            "title": "React2",
+            "start": 39.42,
+            "end": 44.22,
+            "text": " The beauty of this approach is that it makes simple things like reactive state much more complicated than they need to be."
+        },
+        {
+            "number": "6",
+            "title": "React2",
+            "start": 44.28,
+            "end": 45.980000000000004,
+            "text": " And that's what makes us feel like real developers."
+        },
+        {
+            "number": "6",
+            "title": "React2",
+            "start": 46.3,
+            "end": 49.84,
+            "text": " UseEffect is especially fun, and was originally going to be called UseFootGun,"
+        },
+        {
+            "number": "6",
+            "title": "React2",
+            "start": 49.92,
+            "end": 55.04,
+            "text": " because it's a great way to introduce infinite loops, performance issues, and bugs that you'll never be able to figure out."
+        },
+        {
+            "number": "6",
+            "title": "React2",
+            "start": 55.04,
+            "end": 58.54,
+            "text": " Not to worry, though, React is always evolving with revolutionary new features,"
+        },
+        {
+            "number": "6",
+            "title": "React2",
+            "start": 58.68,
+            "end": 61.62,
+            "text": " to monkey-patch all the weirdness nobody saw coming on the previous release."
+        },
+        {
+            "number": "6",
+            "title": "React2",
+            "start": 61.74,
+            "end": 65.72,
+            "text": " Now, even though it has an extremely high learning curve, React is a library and not a framework."
+        },
+        {
+            "number": "6",
+            "title": "React2",
+            "start": 65.92,
+            "end": 69.82,
+            "text": " And that means to build something cool, you'll need to find and install hundreds of different packages,"
+        },
+        {
+            "number": "6",
+            "title": "React2",
+            "start": 70.02,
+            "end": 75.44,
+            "text": " most of which were built by teenagers who stopped maintaining them years ago when they went off to college to learn a real language like C."
+        },
+        {
+            "number": "6",
+            "title": "React2",
+            "start": 75.58,
+            "end": 80.3,
+            "text": " To get started, create a new React app, then open up Google to enter the gates of tutorial hell."
+        },
+        {
+            "number": "6",
+            "title": "React2",
+            "start": 80.44,
+            "end": 82.0,
+            "text": " Notice how we start in strict mode."
+        },
+        {
+            "number": "6",
+            "title": "React2",
+            "start": 82.0,
+            "end": 84.84,
+            "text": " That's used to hide baggage from previous versions of the framework."
+        },
+        {
+            "number": "6",
+            "title": "React2",
+            "start": 84.84,
+            "end": 85.48,
+            "text": " I mean library."
+        },
+        {
+            "number": "6",
+            "title": "React2",
+            "start": 85.7,
+            "end": 89.82000000000001,
+            "text": " Now, in the code, we pretend we're doing functional programming by writing our components as functions."
+        },
+        {
+            "number": "6",
+            "title": "React2",
+            "start": 90.0,
+            "end": 93.08,
+            "text": " Classes are also possible, but they are literally the devil."
+        },
+        {
+            "number": "6",
+            "title": "React2",
+            "start": 93.22,
+            "end": 97.88000000000001,
+            "text": " Instead, we use these hooks everywhere that do the same shit classes do in a more magical, hipstery way."
+        },
+        {
+            "number": "6",
+            "title": "React2",
+            "start": 98.02000000000001,
+            "end": 99.92,
+            "text": " Templating is handled in JSX."
+        },
+        {
+            "number": "6",
+            "title": "React2",
+            "start": 100.04,
+            "end": 106.06,
+            "text": " It's a non-standard way to write HTML, which allows you to represent the UI entirely in non-portable callback hell."
+        },
+        {
+            "number": "6",
+            "title": "React2",
+            "start": 106.14,
+            "end": 111.60000000000001,
+            "text": " Now, we can all agree to hate CSS, but React will make you hate it even more when you try to style something on your own."
+        },
+        {
+            "number": "6",
+            "title": "React2",
+            "start": 111.6,
+            "end": 115.94,
+            "text": " Luckily, there are hundreds of CSS and JS libraries working on this problem as we speak."
+        },
+        {
+            "number": "6",
+            "title": "React2",
+            "start": 116.0,
+            "end": 121.88,
+            "text": " The extra complexity is worth it, though, because React is blazingly fast, assuming you implemented all the weird tricks flawlessly."
+        },
+        {
+            "number": "6",
+            "title": "React2",
+            "start": 122.16,
+            "end": 123.1,
+            "text": " Life is about suffering."
+        },
+        {
+            "number": "6",
+            "title": "React2",
+            "start": 123.24,
+            "end": 128.57999999999998,
+            "text": " It's not supposed to be fun like Svelte, or fast like Solid, or reliable like Angular, or all of the above like Vue."
+        },
+        {
+            "number": "6",
+            "title": "React2",
+            "start": 128.66,
+            "end": 132.85999999999999,
+            "text": " The only thing that matters is React is the most popular, and that makes it undeniably the best."
+        },
+        {
+            "number": "6",
+            "title": "React2",
+            "start": 132.94,
+            "end": 137.0,
+            "text": " Just like Microsoft makes the best operating system, and McDonald's makes the best food."
+        },
+        {
+            "number": "6",
+            "title": "React2",
+            "start": 137.0,
+            "end": 140.86,
+            "text": " This has been me destroying my reputation with the React community in 100 seconds."
+        },
+        {
+            "number": "6",
+            "title": "React2",
+            "start": 141.06,
+            "end": 144.9,
+            "text": " React has been the most influential library in front-end web development for the last decade."
+        },
+        {
+            "number": "6",
+            "title": "React2",
+            "start": 145.1,
+            "end": 148.64,
+            "text": " Nothing's perfect, but it got to where it is today because it does a lot of things right."
+        },
+        {
+            "number": "6",
+            "title": "React2",
+            "start": 148.74,
+            "end": 150.22,
+            "text": " And for that, it deserves our respect."
+        },
+        {
+            "number": "6",
+            "title": "React2",
+            "start": 150.34,
+            "end": 152.8,
+            "text": " Thanks for watching, and I will see you in the next one."
+        }
+    ],
+    "text": " React.js, a half-baked functional UI library created at Facebook that's used by millions of developers because it has a cool name and logo. It was invented by Mark Zuckerberg in 2013. And that was a big mistake. And it was my mistake. And I'm sorry. React is simple, it's just JavaScript, bro. And that's why it gives you dozens of weird ways to solve the same problems, like functional and class-based components, hooks, forward ref, higher order components, mixins, render props, suspense, and so on. It's credited as the first declarative UI library, even though it took most of those ideas from AngularJS. Its killer feature, though, is the fact that you can write pure functional code. That is, until you want to do anything useful, in which case you'll need to write impure functions with state and effects. The beauty of this approach is that it makes simple things like reactive state much more complicated than they need to be. And that's what makes us feel like real developers. UseEffect is especially fun, and was originally going to be called UseFootGun, because it's a great way to introduce infinite loops, performance issues, and bugs that you'll never be able to figure out. Not to worry, though, React is always evolving with revolutionary new features, to monkey-patch all the weirdness nobody saw coming on the previous release. Now, even though it has an extremely high learning curve, React is a library and not a framework. And that means to build something cool, you'll need to find and install hundreds of different packages, most of which were built by teenagers who stopped maintaining them years ago when they went off to college to learn a real language like C. To get started, create a new React app, then open up Google to enter the gates of tutorial hell. Notice how we start in strict mode. That's used to hide baggage from previous versions of the framework. I mean library. Now, in the code, we pretend we're doing functional programming by writing our components as functions. Classes are also possible, but they are literally the devil. Instead, we use these hooks everywhere that do the same shit classes do in a more magical, hipstery way. Templating is handled in JSX. It's a non-standard way to write HTML, which allows you to represent the UI entirely in non-portable callback hell. Now, we can all agree to hate CSS, but React will make you hate it even more when you try to style something on your own. Luckily, there are hundreds of CSS and JS libraries working on this problem as we speak. The extra complexity is worth it, though, because React is blazingly fast, assuming you implemented all the weird tricks flawlessly. Life is about suffering. It's not supposed to be fun like Svelte, or fast like Solid, or reliable like Angular, or all of the above like Vue. The only thing that matters is React is the most popular, and that makes it undeniably the best. Just like Microsoft makes the best operating system, and McDonald's makes the best food. This has been me destroying my reputation with the React community in 100 seconds. React has been the most influential library in front-end web development for the last decade. Nothing's perfect, but it got to where it is today because it does a lot of things right. And for that, it deserves our respect. Thanks for watching, and I will see you in the next one."
+}

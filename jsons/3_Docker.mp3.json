@@ -1,0 +1,271 @@
+{
+    "chunks": [
+        {
+            "number": "3",
+            "title": "Docker",
+            "start": 0.24,
+            "end": 5.12,
+            "text": " Docker, a tool that can package software into containers that run reliably in any environment."
+        },
+        {
+            "number": "3",
+            "title": "Docker",
+            "start": 5.42,
+            "end": 7.28,
+            "text": " But what is a container and why do you need one?"
+        },
+        {
+            "number": "3",
+            "title": "Docker",
+            "start": 7.4,
+            "end": 10.64,
+            "text": " Let's imagine you built an app with COBOL that runs on some weird flavor of Linux."
+        },
+        {
+            "number": "3",
+            "title": "Docker",
+            "start": 10.92,
+            "end": 13.700000000000001,
+            "text": " You want to share this app with your friend, but he has an entirely different system."
+        },
+        {
+            "number": "3",
+            "title": "Docker",
+            "start": 13.88,
+            "end": 17.92,
+            "text": " So the problem becomes, how do we replicate the environment our software needs on any machine?"
+        },
+        {
+            "number": "3",
+            "title": "Docker",
+            "start": 18.080000000000002,
+            "end": 21.34,
+            "text": " One way to package an app is with a virtual machine, where the hardware is simulated,"
+        },
+        {
+            "number": "3",
+            "title": "Docker",
+            "start": 21.62,
+            "end": 23.84,
+            "text": " then installed with the required OS and dependencies."
+        },
+        {
+            "number": "3",
+            "title": "Docker",
+            "start": 24.32,
+            "end": 26.78,
+            "text": " This allows us to run multiple apps on the same infrastructure."
+        },
+        {
+            "number": "3",
+            "title": "Docker",
+            "start": 26.78,
+            "end": 31.86,
+            "text": " However, because each VM is running its own operating system, they tend to be bulky and slow."
+        },
+        {
+            "number": "3",
+            "title": "Docker",
+            "start": 32.22,
+            "end": 36.400000000000006,
+            "text": " Now, a Docker container is conceptually very similar to a VM with one key difference."
+        },
+        {
+            "number": "3",
+            "title": "Docker",
+            "start": 36.74,
+            "end": 40.14,
+            "text": " Instead of virtualizing hardware, containers only virtualize the OS."
+        },
+        {
+            "number": "3",
+            "title": "Docker",
+            "start": 40.480000000000004,
+            "end": 43.980000000000004,
+            "text": " Or in other words, all apps or containers are run by a single kernel,"
+        },
+        {
+            "number": "3",
+            "title": "Docker",
+            "start": 44.2,
+            "end": 46.38,
+            "text": " and this makes almost everything faster and more efficient."
+        },
+        {
+            "number": "3",
+            "title": "Docker",
+            "start": 46.8,
+            "end": 49.42,
+            "text": " There are three fundamental elements in the universe of Docker."
+        },
+        {
+            "number": "3",
+            "title": "Docker",
+            "start": 49.8,
+            "end": 52.36,
+            "text": " The Dockerfile, the image, and the container."
+        },
+        {
+            "number": "3",
+            "title": "Docker",
+            "start": 52.36,
+            "end": 54.28,
+            "text": " The Dockerfile is like DNA."
+        },
+        {
+            "number": "3",
+            "title": "Docker",
+            "start": 54.7,
+            "end": 57.82,
+            "text": " It's just code that tells Docker how to build an image,"
+        },
+        {
+            "number": "3",
+            "title": "Docker",
+            "start": 57.94,
+            "end": 60.0,
+            "text": " which itself is a snapshot of your software,"
+        },
+        {
+            "number": "3",
+            "title": "Docker",
+            "start": 60.18,
+            "end": 63.14,
+            "text": " along with all of its dependencies down to the operating system level."
+        },
+        {
+            "number": "3",
+            "title": "Docker",
+            "start": 63.3,
+            "end": 66.6,
+            "text": " The image is immutable, and it can be used to spin up multiple containers,"
+        },
+        {
+            "number": "3",
+            "title": "Docker",
+            "start": 66.9,
+            "end": 69.16,
+            "text": " which is your actual software running in the real world."
+        },
+        {
+            "number": "3",
+            "title": "Docker",
+            "start": 69.52,
+            "end": 73.5,
+            "text": " Create a Dockerfile and use from to start from an existing template like Ubuntu."
+        },
+        {
+            "number": "3",
+            "title": "Docker",
+            "start": 73.7,
+            "end": 75.78,
+            "text": " This base image gets pulled down from the cloud,"
+        },
+        {
+            "number": "3",
+            "title": "Docker",
+            "start": 75.94,
+            "end": 79.62,
+            "text": " and you can also upload your own images to a variety of different Docker registries."
+        },
+        {
+            "number": "3",
+            "title": "Docker",
+            "start": 79.62,
+            "end": 82.5,
+            "text": " From there, you might want to use run to run a terminal command"
+        },
+        {
+            "number": "3",
+            "title": "Docker",
+            "start": 82.5,
+            "end": 84.36,
+            "text": " that installs dependencies into your image."
+        },
+        {
+            "number": "3",
+            "title": "Docker",
+            "start": 84.52000000000001,
+            "end": 87.18,
+            "text": " You can set environment variables and do all kinds of other stuff."
+        },
+        {
+            "number": "3",
+            "title": "Docker",
+            "start": 87.36,
+            "end": 90.04,
+            "text": " Then the last thing you'll do is set a default command that's executed"
+        },
+        {
+            "number": "3",
+            "title": "Docker",
+            "start": 90.04,
+            "end": 91.24000000000001,
+            "text": " when you start up a container."
+        },
+        {
+            "number": "3",
+            "title": "Docker",
+            "start": 91.56,
+            "end": 94.7,
+            "text": " And now we can create the image file by running the Docker build command."
+        },
+        {
+            "number": "3",
+            "title": "Docker",
+            "start": 94.92,
+            "end": 98.34,
+            "text": " It goes through each step in our Dockerfile to build the image layer by layer."
+        },
+        {
+            "number": "3",
+            "title": "Docker",
+            "start": 98.76,
+            "end": 102.36000000000001,
+            "text": " We can then bring this image to life as a container with the Docker run command."
+        },
+        {
+            "number": "3",
+            "title": "Docker",
+            "start": 102.68,
+            "end": 105.84,
+            "text": " As your app demands more resources, you can run it on multiple machines,"
+        },
+        {
+            "number": "3",
+            "title": "Docker",
+            "start": 106.0,
+            "end": 109.06,
+            "text": " multiple clouds, on-prem, or wherever you want reliably."
+        },
+        {
+            "number": "3",
+            "title": "Docker",
+            "start": 109.06,
+            "end": 111.28,
+            "text": " This has been Docker in 100 seconds."
+        },
+        {
+            "number": "3",
+            "title": "Docker",
+            "start": 111.46000000000001,
+            "end": 113.38,
+            "text": " If you enjoyed it, make sure to like and subscribe,"
+        },
+        {
+            "number": "3",
+            "title": "Docker",
+            "start": 113.76,
+            "end": 116.44,
+            "text": " and stay tuned for more Docker content coming to this channel soon."
+        },
+        {
+            "number": "3",
+            "title": "Docker",
+            "start": 116.8,
+            "end": 119.08,
+            "text": " Thanks for watching, and I will see you in the next one."
+        }
+    ],
+    "text": " Docker, a tool that can package software into containers that run reliably in any environment. But what is a container and why do you need one? Let's imagine you built an app with COBOL that runs on some weird flavor of Linux. You want to share this app with your friend, but he has an entirely different system. So the problem becomes, how do we replicate the environment our software needs on any machine? One way to package an app is with a virtual machine, where the hardware is simulated, then installed with the required OS and dependencies. This allows us to run multiple apps on the same infrastructure. However, because each VM is running its own operating system, they tend to be bulky and slow. Now, a Docker container is conceptually very similar to a VM with one key difference. Instead of virtualizing hardware, containers only virtualize the OS. Or in other words, all apps or containers are run by a single kernel, and this makes almost everything faster and more efficient. There are three fundamental elements in the universe of Docker. The Dockerfile, the image, and the container. The Dockerfile is like DNA. It's just code that tells Docker how to build an image, which itself is a snapshot of your software, along with all of its dependencies down to the operating system level. The image is immutable, and it can be used to spin up multiple containers, which is your actual software running in the real world. Create a Dockerfile and use from to start from an existing template like Ubuntu. This base image gets pulled down from the cloud, and you can also upload your own images to a variety of different Docker registries. From there, you might want to use run to run a terminal command that installs dependencies into your image. You can set environment variables and do all kinds of other stuff. Then the last thing you'll do is set a default command that's executed when you start up a container. And now we can create the image file by running the Docker build command. It goes through each step in our Dockerfile to build the image layer by layer. We can then bring this image to life as a container with the Docker run command. As your app demands more resources, you can run it on multiple machines, multiple clouds, on-prem, or wherever you want reliably. This has been Docker in 100 seconds. If you enjoyed it, make sure to like and subscribe, and stay tuned for more Docker content coming to this channel soon. Thanks for watching, and I will see you in the next one."
+}

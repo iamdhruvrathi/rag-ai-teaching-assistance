@@ -1,0 +1,369 @@
+{
+    "chunks": [
+        {
+            "number": "3",
+            "title": "JavaScript",
+            "start": 0.0,
+            "end": 7.140000000000001,
+            "text": " JavaScript, an embarrassing toy language used exclusively to build things it's not supposed to."
+        },
+        {
+            "number": "3",
+            "title": "JavaScript",
+            "start": 7.24,
+            "end": 13.18,
+            "text": " It was created by Brendan Eich in 1995, who was given requirements to build a language like Java, but for f***ers."
+        },
+        {
+            "number": "3",
+            "title": "JavaScript",
+            "start": 13.32,
+            "end": 15.780000000000001,
+            "text": " It only took him seven days to execute flawlessly."
+        },
+        {
+            "number": "3",
+            "title": "JavaScript",
+            "start": 16.04,
+            "end": 19.7,
+            "text": " It became an overnight dumpster fire, but shit really hit the fan in 2005,"
+        },
+        {
+            "number": "3",
+            "title": "JavaScript",
+            "start": 20.04,
+            "end": 24.2,
+            "text": " when Ryan Dahl made the epic mistake of bringing JavaScript to the server with Node.js."
+        },
+        {
+            "number": "3",
+            "title": "JavaScript",
+            "start": 24.48,
+            "end": 29.080000000000002,
+            "text": " Just like Alfred Nobel and Dynamite, he would go on to apologize for his invention many years later."
+        },
+        {
+            "number": "3",
+            "title": "JavaScript",
+            "start": 29.08,
+            "end": 31.259999999999998,
+            "text": " And it's my fault, and I'm very sorry."
+        },
+        {
+            "number": "3",
+            "title": "JavaScript",
+            "start": 31.54,
+            "end": 35.68,
+            "text": " The language is designed for only one use case, to annoy people with browser pop-ups."
+        },
+        {
+            "number": "3",
+            "title": "JavaScript",
+            "start": 35.839999999999996,
+            "end": 39.339999999999996,
+            "text": " But today, it's used to build memory-hogging desktop apps with Electron,"
+        },
+        {
+            "number": "3",
+            "title": "JavaScript",
+            "start": 39.56,
+            "end": 43.66,
+            "text": " janky mobile apps with React Native, and unreliable APIs with Express.js."
+        },
+        {
+            "number": "3",
+            "title": "JavaScript",
+            "start": 43.92,
+            "end": 48.879999999999995,
+            "text": " No matter what you're trying to build, there are hundreds of different game-changing next-gen libraries to get the job done."
+        },
+        {
+            "number": "3",
+            "title": "JavaScript",
+            "start": 48.94,
+            "end": 51.62,
+            "text": " That's because whenever a JavaScript developer encounters a problem,"
+        },
+        {
+            "number": "3",
+            "title": "JavaScript",
+            "start": 51.78,
+            "end": 56.28,
+            "text": " it will instinctively create a brand new framework and upload it to GitHub with a bunch of emojis in the readme."
+        },
+        {
+            "number": "3",
+            "title": "JavaScript",
+            "start": 56.28,
+            "end": 61.64,
+            "text": " In fact, there are so many NPM packages that Al Gore is now predicting the Arctic will be ice-free by 2013."
+        },
+        {
+            "number": "3",
+            "title": "JavaScript",
+            "start": 61.88,
+            "end": 64.72,
+            "text": " You have stolen my dreams and my childhood."
+        },
+        {
+            "number": "3",
+            "title": "JavaScript",
+            "start": 64.98,
+            "end": 68.16,
+            "text": " Unlike languages people actually like, JavaScript doesn't have a mascot,"
+        },
+        {
+            "number": "3",
+            "title": "JavaScript",
+            "start": 68.36,
+            "end": 70.78,
+            "text": " but they are working with David Cronenberg to design one."
+        },
+        {
+            "number": "3",
+            "title": "JavaScript",
+            "start": 70.88,
+            "end": 74.9,
+            "text": " It's a loosely typed language, and by that, I mean completely detached from reality."
+        },
+        {
+            "number": "3",
+            "title": "JavaScript",
+            "start": 75.06,
+            "end": 78.92,
+            "text": " When you add an array to an object, obviously it returns a string that says object."
+        },
+        {
+            "number": "3",
+            "title": "JavaScript",
+            "start": 79.08,
+            "end": 79.34,
+            "text": " Object."
+        },
+        {
+            "number": "3",
+            "title": "JavaScript",
+            "start": 79.6,
+            "end": 83.0,
+            "text": " Now switch the order of the operands, and predictably, it returns zero."
+        },
+        {
+            "number": "3",
+            "title": "JavaScript",
+            "start": 83.0,
+            "end": 86.14,
+            "text": " If you want a good laugh for yourself, try adding two objects together."
+        },
+        {
+            "number": "3",
+            "title": "JavaScript",
+            "start": 86.32,
+            "end": 88.38,
+            "text": " You'll get object, object, object, object."
+        },
+        {
+            "number": "3",
+            "title": "JavaScript",
+            "start": 88.56,
+            "end": 90.92,
+            "text": " Now with that knowledge, what do you think two arrays will equal?"
+        },
+        {
+            "number": "3",
+            "title": "JavaScript",
+            "start": 91.14,
+            "end": 92.5,
+            "text": " Obviously, an empty string."
+        },
+        {
+            "number": "3",
+            "title": "JavaScript",
+            "start": 92.66,
+            "end": 96.22,
+            "text": " That makes total sense, because the number zero is equivalent to an empty array,"
+        },
+        {
+            "number": "3",
+            "title": "JavaScript",
+            "start": 96.36,
+            "end": 98.28,
+            "text": " and also equivalent to a string of zero."
+        },
+        {
+            "number": "3",
+            "title": "JavaScript",
+            "start": 98.4,
+            "end": 103.68,
+            "text": " And that means the only possible sane conclusion is that a string of zero is also equivalent to an empty array."
+        },
+        {
+            "number": "3",
+            "title": "JavaScript",
+            "start": 103.8,
+            "end": 105.34,
+            "text": " But amazingly, it's not."
+        },
+        {
+            "number": "3",
+            "title": "JavaScript",
+            "start": 105.42,
+            "end": 107.0,
+            "text": " Everybody knows you never go full retard."
+        },
+        {
+            "number": "3",
+            "title": "JavaScript",
+            "start": 107.0,
+            "end": 111.96,
+            "text": " It got this way because Netscape did a focus group in the 90s with some homeless web developers they found on the street,"
+        },
+        {
+            "number": "3",
+            "title": "JavaScript",
+            "start": 112.06,
+            "end": 114.04,
+            "text": " who thought 2 plus 2 should equal 22."
+        },
+        {
+            "number": "3",
+            "title": "JavaScript",
+            "start": 114.3,
+            "end": 116.78,
+            "text": " And of course, that's why 2 minus 2 equals 0."
+        },
+        {
+            "number": "3",
+            "title": "JavaScript",
+            "start": 116.92,
+            "end": 119.64,
+            "text": " When a language is this bad and this popular at the same time,"
+        },
+        {
+            "number": "3",
+            "title": "JavaScript",
+            "start": 119.74,
+            "end": 124.12,
+            "text": " it creates an ecosystem where libraries like isOdd, which does exactly what the name implies,"
+        },
+        {
+            "number": "3",
+            "title": "JavaScript",
+            "start": 124.28,
+            "end": 127.64,
+            "text": " can get over 400 down- or no, 400,000 downloads per week."
+        },
+        {
+            "number": "3",
+            "title": "JavaScript",
+            "start": 127.7,
+            "end": 132.74,
+            "text": " The fun thing about packages is that there's multiple module systems, like CommonJS and ESM."
+        },
+        {
+            "number": "3",
+            "title": "JavaScript",
+            "start": 132.74,
+            "end": 135.46,
+            "text": " So you never know if the package you're installing is actually going to work."
+        },
+        {
+            "number": "3",
+            "title": "JavaScript",
+            "start": 135.56,
+            "end": 137.70000000000002,
+            "text": " Now, if you do manage to build something with JavaScript,"
+        },
+        {
+            "number": "3",
+            "title": "JavaScript",
+            "start": 137.88,
+            "end": 139.4,
+            "text": " it'll probably never see the light of day,"
+        },
+        {
+            "number": "3",
+            "title": "JavaScript",
+            "start": 139.54000000000002,
+            "end": 142.66,
+            "text": " because then you have to learn module bundling with a tool like Webpack."
+        },
+        {
+            "number": "3",
+            "title": "JavaScript",
+            "start": 142.74,
+            "end": 143.9,
+            "text": " And it's just not worth it, man."
+        },
+        {
+            "number": "3",
+            "title": "JavaScript",
+            "start": 144.0,
+            "end": 147.4,
+            "text": " This has been my cathartic release from over 10 years of JavaScript development."
+        },
+        {
+            "number": "3",
+            "title": "JavaScript",
+            "start": 147.60000000000002,
+            "end": 150.68,
+            "text": " Despite its problems, it's evolved into an awesome language in 2022."
+        },
+        {
+            "number": "3",
+            "title": "JavaScript",
+            "start": 151.06,
+            "end": 152.32000000000002,
+            "text": " And I love programming with it."
+        },
+        {
+            "number": "3",
+            "title": "JavaScript",
+            "start": 152.38,
+            "end": 155.10000000000002,
+            "text": " Today is Thanksgiving, and I'm extremely thankful for JavaScript,"
+        },
+        {
+            "number": "3",
+            "title": "JavaScript",
+            "start": 155.38,
+            "end": 156.9,
+            "text": " because it puts food on my family."
+        },
+        {
+            "number": "3",
+            "title": "JavaScript",
+            "start": 157.08,
+            "end": 158.38,
+            "text": " If you want to master the basics,"
+        },
+        {
+            "number": "3",
+            "title": "JavaScript",
+            "start": 158.52,
+            "end": 162.10000000000002,
+            "text": " all this reverse psychology should motivate you to buy my JavaScript course."
+        },
+        {
+            "number": "3",
+            "title": "JavaScript",
+            "start": 162.1,
+            "end": 164.44,
+            "text": " And if you don't buy it, I won't make any f***ing money."
+        },
+        {
+            "number": "3",
+            "title": "JavaScript",
+            "start": 164.56,
+            "end": 167.01999999999998,
+            "text": " Thanks for watching, and I will see you in the next one,"
+        },
+        {
+            "number": "3",
+            "title": "JavaScript",
+            "start": 167.14,
+            "end": 169.2,
+            "text": " assuming I'm not entirely cancelled after this video."
+        }
+    ],
+    "text": " JavaScript, an embarrassing toy language used exclusively to build things it's not supposed to. It was created by Brendan Eich in 1995, who was given requirements to build a language like Java, but for f***ers. It only took him seven days to execute flawlessly. It became an overnight dumpster fire, but shit really hit the fan in 2005, when Ryan Dahl made the epic mistake of bringing JavaScript to the server with Node.js. Just like Alfred Nobel and Dynamite, he would go on to apologize for his invention many years later. And it's my fault, and I'm very sorry. The language is designed for only one use case, to annoy people with browser pop-ups. But today, it's used to build memory-hogging desktop apps with Electron, janky mobile apps with React Native, and unreliable APIs with Express.js. No matter what you're trying to build, there are hundreds of different game-changing next-gen libraries to get the job done. That's because whenever a JavaScript developer encounters a problem, it will instinctively create a brand new framework and upload it to GitHub with a bunch of emojis in the readme. In fact, there are so many NPM packages that Al Gore is now predicting the Arctic will be ice-free by 2013. You have stolen my dreams and my childhood. Unlike languages people actually like, JavaScript doesn't have a mascot, but they are working with David Cronenberg to design one. It's a loosely typed language, and by that, I mean completely detached from reality. When you add an array to an object, obviously it returns a string that says object. Object. Now switch the order of the operands, and predictably, it returns zero. If you want a good laugh for yourself, try adding two objects together. You'll get object, object, object, object. Now with that knowledge, what do you think two arrays will equal? Obviously, an empty string. That makes total sense, because the number zero is equivalent to an empty array, and also equivalent to a string of zero. And that means the only possible sane conclusion is that a string of zero is also equivalent to an empty array. But amazingly, it's not. Everybody knows you never go full retard. It got this way because Netscape did a focus group in the 90s with some homeless web developers they found on the street, who thought 2 plus 2 should equal 22. And of course, that's why 2 minus 2 equals 0. When a language is this bad and this popular at the same time, it creates an ecosystem where libraries like isOdd, which does exactly what the name implies, can get over 400 down- or no, 400,000 downloads per week. The fun thing about packages is that there's multiple module systems, like CommonJS and ESM. So you never know if the package you're installing is actually going to work. Now, if you do manage to build something with JavaScript, it'll probably never see the light of day, because then you have to learn module bundling with a tool like Webpack. And it's just not worth it, man. This has been my cathartic release from over 10 years of JavaScript development. Despite its problems, it's evolved into an awesome language in 2022. And I love programming with it. Today is Thanksgiving, and I'm extremely thankful for JavaScript, because it puts food on my family. If you want to master the basics, all this reverse psychology should motivate you to buy my JavaScript course. And if you don't buy it, I won't make any f***ing money. Thanks for watching, and I will see you in the next one, assuming I'm not entirely cancelled after this video."
+}
