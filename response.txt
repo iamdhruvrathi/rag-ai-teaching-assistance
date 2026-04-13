@@ -1,9 +1,0 @@
-Hello there! I see you're watching our Sigma web development course. You've got a great question about EC2.
-
-EC2 stands for Elastic Compute Cloud, which is a service provided by Amazon Web Services (AWS). In Video 1, at around 68 seconds in, we actually talked about AWS and how it's become quite powerful lately. It's surprising to see that they now have 500 EC2 instances mining shitcoins all over the world.
-
-So, if you want to know more about EC2, I'd recommend checking out Video 1. We cover a lot of ground in the first video, including an overview of AWS and its various services. You can find it on our course platform. Specifically, go to the first video, and jump straight to around 68 seconds.
-
-That's where we dive into more details about AWS and how it's being used today. I think you'll find that it's a great resource for learning more about EC2 and other AWS services.
-
-Let me know if you have any further questions or need help with anything else!

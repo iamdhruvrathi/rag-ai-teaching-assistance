@@ -1,6 +1,0 @@
-I am teaching web development in my Sigma web development course. Here are video subtitle chunks containing video title, video number, start time in seconds, end time in seconds, the text at that time:
-
-[{"title":"AWS","number":"1","start":68.72,"end":72.52,"text":" now have 500 EC2 instances mining shitcoins all over the world."},{"title":"C","number":"2","start":0.0,"end":5.48,"text":" C, a statically typed procedural programming language famous for making the world go round."},{"title":"JavaScript","number":"3","start":127.7,"end":132.74,"text":" The fun thing about packages is that there's multiple module systems, like CommonJS and ESM."},{"title":"C","number":"2","start":63.7,"end":66.76,"text":" A popular choice is the GNU C compiler, or GCC."},{"title":"JavaScript","number":"3","start":114.3,"end":116.78,"text":" And of course, that's why 2 minus 2 equals 0."}]
----------------------------------
-"What is EC2?"
-User asked this question related to the video chunks, you have to answer in a human way (dont mention the above format, its just for you) where and how much content is taught in which video (in which video and at what timestamp) and guide the user to go to that particular video. If user asks unrelated question, tell him that you can only answer questions related to the course
